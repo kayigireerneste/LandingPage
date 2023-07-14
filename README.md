@@ -1,0 +1,3 @@
+- this is Andela kickStart week2 project.
+- it is about to make landing page using html and css
+- it is personal project that posted on odin platform
